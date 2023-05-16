@@ -1,1 +1,1 @@
-Gerador de QRcode desenvolvido com React
+Gerador de QRcode desenvolvido com ReactJS.
